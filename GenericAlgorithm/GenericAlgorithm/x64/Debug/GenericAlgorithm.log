@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\Динислам\Desktop\Important\Projects\cpp projects\GenericAlgorithm\GenericAlgorithm\MyForm.h(251,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Динислам\Desktop\Important\Projects\cpp projects\GenericAlgorithm\GenericAlgorithm\MyForm.h(274,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  GenericAlgorithm.vcxproj -> C:\Users\Динислам\Desktop\Important\Projects\cpp projects\GenericAlgorithm\x64\Debug\GenericAlgorithm.exe

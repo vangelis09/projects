@@ -1,0 +1,3 @@
+C:\Users\Динислам\Desktop\Important\Projects\cpp projects\GenericAlgorithm\GenericAlgorithm\x64\Release\GenericAlgorithm.vcxproj.AssemblyReference.cache
+C:\Users\Динислам\Desktop\Important\Projects\cpp projects\GenericAlgorithm\GenericAlgorithm\x64\Release\GenericAlgorithm.MyForm.resources
+C:\Users\Динислам\Desktop\Important\Projects\cpp projects\GenericAlgorithm\GenericAlgorithm\x64\Release\GenericAlgorithm.vcxproj.GenerateResource.cache
