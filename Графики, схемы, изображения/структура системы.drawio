@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.1">
+  <diagram name="Страница — 1" id="tbgq72Ktqor_QvqHYRNz">
+    <mxGraphModel dx="2084" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="890" y="150" width="620" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="WsDLFTVpRNdNFQEXCbQ--3" target="WsDLFTVpRNdNFQEXCbQ--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--3" value="Модуль маршрутизации" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="5" y="110" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="WsDLFTVpRNdNFQEXCbQ--5" target="WsDLFTVpRNdNFQEXCbQ--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--5" value="Беспилотник с камерой" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="WsDLFTVpRNdNFQEXCbQ--7" target="WsDLFTVpRNdNFQEXCbQ--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--7" value="Модуль распознавания" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="302.5" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WsDLFTVpRNdNFQEXCbQ--10" target="WsDLFTVpRNdNFQEXCbQ--45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WsDLFTVpRNdNFQEXCbQ--10" target="WsDLFTVpRNdNFQEXCbQ--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--10" value="Блок оценки состояния" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="305" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--13" value="&lt;font&gt;Генетический алгоритм&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=21;flipH=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1360" y="272" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WsDLFTVpRNdNFQEXCbQ--16" target="WsDLFTVpRNdNFQEXCbQ--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--16" value="&lt;font&gt;Нейронная сеть&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1120" y="630" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--17" value="Конец" style="ellipse;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="605" y="850" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--18" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Маршрут&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;[{x1, y1,z1}, {x2,y2,z2},... {xN,yN,zN}&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cce5ff;perimeterSpacing=2;rounded=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--19" value="Фото-видеоматериалы" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--20" value="Фотографии с выявленными дефектами" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--21" value="&lt;font&gt;Таблица состояния ветряков&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="760" y="230" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--22" value="Таблица состояния ветряков (SQL)" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1120" y="240" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1400" y="100" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--26" value="Данные&amp;nbsp;&lt;div&gt;о состояниях ветряков за несколько лет&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1190" y="540" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--27" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Модули&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="25" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--28" value="&lt;span&gt;&lt;b&gt;- Передаваемые данные&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="95" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--29" value="&lt;font&gt;Модуль прогнозирования неисправностей&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1025.5" y="170" width="309" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="65" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--32" value="&lt;font&gt;&lt;b&gt;- Блоки&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WsDLFTVpRNdNFQEXCbQ--34" target="WsDLFTVpRNdNFQEXCbQ--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--34" value="Рекомендательный блок" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="640" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--35" value="Прогноз о вероятности поломок" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="940" y="690" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--36" value="Информация о текущем состоянии ветрогенераторов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="460" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="WsDLFTVpRNdNFQEXCbQ--38" target="WsDLFTVpRNdNFQEXCbQ--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--38" value="Начало" style="ellipse;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--39" value="&lt;font&gt;&lt;span&gt;Лист рекомендаций по обслуживанию ветряков&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="740" width="210" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--42" value="Таблица поврежденных ветряков&lt;div&gt;(Node 1-5, best fitness)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1110" y="360" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WsDLFTVpRNdNFQEXCbQ--45" target="WsDLFTVpRNdNFQEXCbQ--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WsDLFTVpRNdNFQEXCbQ--45" target="WsDLFTVpRNdNFQEXCbQ--16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1015" y="600" />
+              <mxPoint x="1180" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--45" value="&lt;span&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;База&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;данных&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=21;flipH=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="940" y="272" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="WsDLFTVpRNdNFQEXCbQ--49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.991;exitY=0.885;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.885;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WsDLFTVpRNdNFQEXCbQ--13" target="WsDLFTVpRNdNFQEXCbQ--45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="450" as="sourcePoint" />
+            <mxPoint x="990" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
