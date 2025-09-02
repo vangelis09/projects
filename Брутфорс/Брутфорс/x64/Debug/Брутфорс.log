@@ -1,0 +1,3 @@
+﻿  Брутфорс.cpp
+C:\Users\Динислам\Desktop\Important\Projects\cpp projects\Брутфорс\Брутфорс\Брутфорс.cpp(127,38): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Брутфорс.vcxproj -> C:\Users\Динислам\Desktop\Important\Projects\cpp projects\Брутфорс\x64\Debug\Брутфорс.exe
